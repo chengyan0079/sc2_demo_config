@@ -25,3 +25,5 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://118.24.19.185:8801/eureka/
+      
+version: 0.0.1
