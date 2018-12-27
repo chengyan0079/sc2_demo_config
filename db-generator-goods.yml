@@ -2,7 +2,7 @@ server:
   tomcat:
     max-threads: 10
     min-spare-threads: 10
-  port: 8701
+  port: 8703
 
 spring:
   datasource:
