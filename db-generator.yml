@@ -7,7 +7,7 @@ server:
 spring:
   # user/order/goods
   profiles:
-    active: user
+    active: order
   jackson:
     time-zone: GMT+8
     date-format: yyyy-MM-dd HH:mm:ss
